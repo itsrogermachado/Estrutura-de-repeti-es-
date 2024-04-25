@@ -1,0 +1,5 @@
+c = float(input('Quando voce tem na carteira ? R$'))
+print(f'Voce poderia comprar')
+print(f'{c/5.10:.2f} Dolares')
+print(f'{c/5.53:.2f} Euros')
+print(f'{c/6.23:.2f} Libras')
